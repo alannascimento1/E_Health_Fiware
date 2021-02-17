@@ -1,0 +1,2 @@
+#Só isso msm.
+sudo ./services create;sudo ./services start;

@@ -1,0 +1,10 @@
+https://ngrok.com/download
+
+./ngrok http 8081
+A aplicação WEB está escutando na porta 8081 do localhost. 
+O ngrok criará um link que disponibiliza criará um canal de comunicação.
+Para isso, use o comando: "./ngrok http 8081"
+
+Após isso faz as requisições com o Postman, para cadastrar as entidades de cada sensor.
+
+Lembrar de em subscription atualizar o endereço da subscrição para o link gerado pelo ngrok. [POST]
